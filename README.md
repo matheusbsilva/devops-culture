@@ -1,6 +1,10 @@
 # DevOps Culture
 This repository is a compilation of all material that I found really good on my way on to how to improve software **delivery**, **resiliency**, **quality** and mainly how to create a better **culture**. Feel free to contribute. 
 
+## Where it started?
+- [The (Short) History of DevOps by Damon Edwards](https://www.youtube.com/watch?v=o7-IuYS0iSE)
+- [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4&t=1828s)
+
 ## Microservices
 
 ### What is?
