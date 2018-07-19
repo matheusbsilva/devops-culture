@@ -16,3 +16,10 @@ This repository is a compilation of all material that I found really good on my 
 - [Challenges of scalilng microservices](https://techbeacon.com/challenges-scaling-microservices)
 - [A brief about the book The Art of Scalability](http://microservices.io/articles/scalecube.html) describing what is the **Scale cube**
 - [The Hardest Part About Microservices: Your Data, from Christian Post](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/) talking about how to manage your data on microservice architecture
+
+
+## Resilience
+- [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
+
+## Kubernetes
+- [Kubernetes basics by Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
